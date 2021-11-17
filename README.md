@@ -9,7 +9,7 @@
 ### Connect with me:
 
 [<img align="left" alt="linkedIn | Antoni Blanché" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
-[<img align="left" alt="linkedIn | Antoni Blanché" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/602px-Mail_%28iOS%29.svg.png" />][mail]
+[<img align="left" alt="linkedIn | Antoni Blanché" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Mail_%28iOS%29.svg/602px-Mail_%28iOS%29.svg.png" />](mailto:antoni.bx@gmail.com)
 
 <br />
 
@@ -48,7 +48,6 @@
 </details-->
 
 [linkedin]: https://linkedin.com/in/antoniblanche
-[mail]: mailto:antoni.bx@gmail.com
 [java-boot]: https://spain.generation.org/spain/programacion-web/
 [vue-boot]: https://www.barcelonactiva.cat/itacademy
 [vsc]: https://github.com/antonibx
