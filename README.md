@@ -14,7 +14,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsc]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][sass]
@@ -49,14 +49,15 @@
 [linkedin]: https://linkedin.com/in/antoniblanche
 [java-boot]: https://spain.generation.org/spain/programacion-web/
 [vue-boot]: https://www.barcelonactiva.cat/itacademy
-[html]: /
-[css]: /
-[sass]: /
-[js]: /
-[vue]: /
-[node]: /
-[sql]: /
-[mysql]: /
-[git]: /
-[github]: /
-[terminal]: /
+[vsc]: https://github.com/antonibx
+[html]: https://github.com/antonibx
+[css]: https://github.com/antonibx
+[sass]: https://github.com/antonibx
+[js]: https://github.com/antonibx
+[vue]: https://github.com/antonibx
+[node]: https://github.com/antonibx
+[sql]: https://github.com/antonibx
+[mysql]: https://github.com/antonibx
+[git]: https://github.com/antonibx
+[github]: https://github.com/antonibx
+[terminal]: https://github.com/antonibx
