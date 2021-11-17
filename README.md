@@ -14,7 +14,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vsc]
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][sass]
@@ -31,12 +31,12 @@
 <br />
 
 ---
-
+<!--
 ### ⚡ Recent GitHub Activity
 
 <details>
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<START_SECTION:activity>
+<END_SECTION:activity>
 </details>
 
 <details>
@@ -44,7 +44,7 @@
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=antonibx&show_icons=true&hide_border=true" />
 
-</details>
+</details-->
 
 [linkedin]: https://linkedin.com/in/antoniblanche
 [java-boot]: https://spain.generation.org/spain/programacion-web/
