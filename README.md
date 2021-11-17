@@ -48,7 +48,7 @@
 </details-->
 
 [linkedin]: https://linkedin.com/in/antoniblanche
-[mail]: antoni.bx@gmail.com
+[mail]: mailto:antoni.bx@gmail.com
 [java-boot]: https://spain.generation.org/spain/programacion-web/
 [vue-boot]: https://www.barcelonactiva.cat/itacademy
 [vsc]: https://github.com/antonibx
